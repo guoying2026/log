@@ -1,0 +1,22 @@
+{
+    "name": "starship/logguoying",
+    "type": "libary",
+    "license": "MIT",
+    "autoload": {
+        "files": ["src/helper.php"],
+        "psr-4": {
+            "Starship\\Logguoying\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "guoying",
+            "email": "2473548838@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "7.4.16",
+        "psr/log": "^1.1"
+    }
+}
