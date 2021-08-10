@@ -9,3 +9,5 @@ Log::info_static('guo');
 Log::error_static('ying');
 
 hello_startship();
+
+//测试是否可以自动更新
