@@ -1,11 +1,11 @@
 {
-    "name": "starship/logguoying",
+    "name": "starshipguoying/logguoying",
     "type": "libary",
     "license": "MIT",
     "autoload": {
         "files": ["src/helper.php"],
         "psr-4": {
-            "Starship\\Logguoying\\": "src/"
+            "Starshipguoying\\Logguoying\\": "src/"
         }
     },
     "authors": [

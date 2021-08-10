@@ -1,5 +1,5 @@
 <?php
-namespace Starship\Logguoying\Drivers;
+namespace Starshipguoying\Logguoying\Drivers;
 
 use Psr\Log\AbstractLogger;
 use Psr\Log\LoggerInterface;

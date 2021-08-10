@@ -1,7 +1,7 @@
 <?php
-namespace Starship\Logguoying;
+namespace Starshipguoying\Logguoying;
 
-use Starship\Logguoying\Drivers\FileLog;
+use Starshipguoying\Logguoying\Drivers\FileLog;
 
 class Log extends FileLog{
 	public static function info_static($message){
